@@ -73,6 +73,17 @@ building web apps, 3D experiences, and whatever sparks my curiosity.
 
 ---
 
+### `> contribution_snake`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/korezonzi/korezonzi/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/korezonzi/korezonzi/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 ### `> connect`
 
 <p align="center">
