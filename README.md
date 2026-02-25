@@ -1,10 +1,10 @@
 <!-- ヘッダー -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=180&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=HR%20Professional%20who%20codes%20%F0%9F%9A%80&fontSize=28&fontColor=58a6ff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <!-- タイピングアニメーション -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=HR+Professional+who+codes+%F0%9F%9A%80;Recruiting+%C3%97+Tech+%C3%97+Product+Building;Crafting+hiring+experiences+from+Osaka" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Recruiting+%C3%97+Tech+%C3%97+Product+Building;Crafting+hiring+experiences+from+Osaka" alt="Typing SVG" />
   </a>
 </p>
 
