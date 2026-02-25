@@ -1,10 +1,10 @@
 <!-- ヘッダー -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=korezonzi&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Indie%20Developer%20%7C%20Tokyo&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=180&section=header" width="100%" />
 
 <!-- タイピングアニメーション -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+things+that+matter+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Next.js+%7C+CesiumJS;Always+shipping%2C+always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=HR+Professional+who+codes+%F0%9F%9A%80;Recruiting+%C3%97+Tech+%C3%97+Product+Building;Crafting+hiring+experiences+from+Osaka" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 ### `> whoami`
 
 ```text
-indie developer based in Tokyo, Japan.
-building web apps, 3D experiences, and whatever sparks my curiosity.
+HR professional based in Osaka, Japan.
+building tools & products to make hiring better.
 ```
 
 ---
@@ -35,7 +35,7 @@ building web apps, 3D experiences, and whatever sparks my curiosity.
       <h3 align="center">ReciFreee</h3>
       <p align="center">
         <a href="https://github.com/korezonzi/recifreee">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=korezonzi&repo=recifreee&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+          <img src="https://my-stats-seven-beta.vercel.app/api/pin/?username=korezonzi&repo=recifreee&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
         </a>
       </p>
     </td>
@@ -43,7 +43,7 @@ building web apps, 3D experiences, and whatever sparks my curiosity.
       <h3 align="center">Wingsuit Simulator</h3>
       <p align="center">
         <a href="https://github.com/korezonzi/wingsuit-sim">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=korezonzi&repo=wingsuit-sim&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+          <img src="https://my-stats-seven-beta.vercel.app/api/pin/?username=korezonzi&repo=wingsuit-sim&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
         </a>
       </p>
     </td>
@@ -55,12 +55,12 @@ building web apps, 3D experiences, and whatever sparks my curiosity.
 ### `> stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korezonzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korezonzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+  <img src="https://my-stats-seven-beta.vercel.app/api?username=korezonzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" />
+  <img src="https://my-stats-seven-beta.vercel.app/api/top-langs/?username=korezonzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=korezonzi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=korezonzi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" />
 </p>
 
 ---
@@ -77,8 +77,8 @@ building web apps, 3D experiences, and whatever sparks my curiosity.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/korezonzi/korezonzi/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/korezonzi/korezonzi/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/korezonzi/korezonzi/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/korezonzi/korezonzi/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
