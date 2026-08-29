@@ -56,14 +56,6 @@ Python pipelines, Rust and Swift on the desktop, Next.js on the web — all of i
 
 ---
 
-### `> activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korezonzi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
-</p>
-
----
-
 ### `> contribution_snake`
 
 <p align="center">
