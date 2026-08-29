@@ -1,5 +1,5 @@
 <!-- ヘッダー -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=HR%20Professional%20who%20codes%20%F0%9F%9A%80&fontSize=28&fontColor=58a6ff&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=HR%20Professional%20who%20codes%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <!-- タイピングアニメーション -->
 <p align="center">
@@ -46,7 +46,7 @@ Python pipelines, Rust and Swift on the desktop, Next.js on the web — all of i
 ### `> stats`
 
 <p align="center">
-  <img src="https://my-stats-seven-beta.vercel.app/api?username=korezonzi&show_icons=true&hide_rank=true&hide=stars,issues&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
+  <img src="https://my-stats-seven-beta.vercel.app/api?username=korezonzi&show_icons=true&hide_rank=true&hide=stars,issues,contribs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
   <img src="https://my-stats-seven-beta.vercel.app/api/top-langs/?username=korezonzi&layout=compact&exclude_repo=app-manage-attend,NSchool-WebApp&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
 </p>
 
