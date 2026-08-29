@@ -22,33 +22,24 @@ building tools & products to make hiring better.
 ### `> tech_stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,html,css,tailwind,figma,supabase,firebase,vercel,github,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,py,rust,swift,react,nextjs,nodejs,fastapi,tauri,tailwind,docker,supabase,firebase,vercel,githubactions,figma&theme=dark&perline=8" />
 </p>
 
 ---
 
 ### `> featured_projects`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ReciFreee</h3>
-      <p align="center">
-        <a href="https://github.com/korezonzi/recifreee">
-          <img src="https://my-stats-seven-beta.vercel.app/api/pin/?username=korezonzi&repo=recifreee&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Wingsuit Simulator</h3>
-      <p align="center">
-        <a href="https://github.com/korezonzi/wingsuit-sim">
-          <img src="https://my-stats-seven-beta.vercel.app/api/pin/?username=korezonzi&repo=wingsuit-sim&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+Python pipelines, Rust and Swift on the desktop, Next.js on the web — all of it shipped and in daily use.
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[x-search](https://github.com/korezonzi/x-search)** | Collects Claude Code practice from X, scores it, and reports only what is worth adopting. Frozen decisions and a cost ceiling keep the pipeline honest. | `Python` `SocialData API` `launchd` `Slack` |
+| **[bulk-tracker](https://github.com/korezonzi/bulk-tracker)** | Photograph a meal, get its macros. Eleven Claude API routes read food, body composition, and skin, then write a weekly review on a cron. | `Next.js 16` `React 19` `Claude API` `Supabase` `PWA` |
+| **[Pie Timer](https://github.com/korezonzi/pie-timer)** | Always-on-top circular timer for macOS. Remaining time reads as a shrinking sector, so you never parse digits. | `Tauri v2` `Rust` `React` `TypeScript` |
+| **[VoiceInput](https://github.com/korezonzi/voice-input)** | macOS menu-bar dictation. Tap Left Option, speak, tap again — AI-cleaned text lands on the clipboard. | `Swift 5.9` `macOS 14+` `Gemini API` |
+| **[ReciFreee](https://github.com/korezonzi/recifreee)** · [live](https://recifreee.vercel.app) | Turns receipt images into freee-ready data. Gemini OCR into Google Sheets / Drive, behind Google OAuth. | `Next.js 16` `TypeScript` `Gemini API` `Docker` |
+| **[MoodMeshi](https://github.com/korezonzi/moodMeshi)** · [live](https://moodmeshi.vercel.app) | Describe your mood, get a meal plan. The same agent answers from the web app or a Slack bot. | `Python 3.12` `FastAPI` `Slack API` `Vercel + Render` |
+| **[Wingsuit Sim](https://github.com/korezonzi/wingsuit-sim)** | Wingsuit flight over the Swiss Alps, rendered from Google's photorealistic 3D tiles. | `CesiumJS` `Google 3D Tiles` `WebGL` |
 
 ---
 
