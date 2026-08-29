@@ -46,12 +46,8 @@ Python pipelines, Rust and Swift on the desktop, Next.js on the web — all of i
 ### `> stats`
 
 <p align="center">
-  <img src="https://my-stats-seven-beta.vercel.app/api?username=korezonzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" />
-  <img src="https://my-stats-seven-beta.vercel.app/api/top-langs/?username=korezonzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=korezonzi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" />
+  <img src="https://my-stats-seven-beta.vercel.app/api?username=korezonzi&show_icons=true&hide_rank=true&hide=stars,issues&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
+  <img src="https://my-stats-seven-beta.vercel.app/api/top-langs/?username=korezonzi&layout=compact&exclude_repo=app-manage-attend,NSchool-WebApp&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
 </p>
 
 ---
